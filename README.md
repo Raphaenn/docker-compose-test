@@ -22,5 +22,5 @@ Esse repositório é referência ao projeto criado no Medium
 ---
 
 <p align="center">
-Made with ♥ by <a href="https://www.linkedin.com/in/raphaelnneves">Jonathan</a>
+Made with ♥ by <a href="https://www.linkedin.com/in/raphaelnneves">Raphael</a>
 </p>
